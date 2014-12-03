@@ -1,0 +1,5 @@
+ebin/*
+.idea/*
+deps/*
+.rebar/erlcinfo
+testup.iml
