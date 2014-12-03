@@ -1,5 +1,5 @@
 
--module(folsomtest).
+-module(folsomtest_sup).
 
 -behaviour(supervisor).
 
